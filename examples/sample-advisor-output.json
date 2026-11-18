@@ -1,0 +1,86 @@
+{
+  "intake_summary": [
+    {"weekday": "Monday", "summary": "Two cafe accounts paid late again; one of them was also late last month."},
+    {"weekday": "Monday", "summary": "The Ethiopia single origin ran out - second time this year. Three cafes had to switch blends."},
+    {"weekday": "Tuesday", "summary": "Idea: sell an office bundle - beans every month plus a machine service visit."},
+    {"weekday": "Wednesday", "summary": "Priya was off sick, so the owner roasted all day and missed two sales calls."},
+    {"weekday": "Wednesday", "summary": "Thinking again about buying a second roaster."},
+    {"weekday": "Thursday", "summary": "A competitor dropped their wholesale price per kilo; worried about losing smaller cafes."},
+    {"weekday": "Friday", "summary": "Marketing thought: short videos of the roasting process for Instagram."},
+    {"weekday": "Friday", "summary": "Lena signed a new cafe, but they want a machine on loan."}
+  ],
+  "business_health": {
+    "status": "Needs attention",
+    "vitals": [
+      {"label": "Revenue this week", "value": "Steady", "direction": "flat", "trend": "↔ one new account"},
+      {"label": "Customer trust", "value": "At risk", "direction": "down", "trend": "↓ a stockout hit 3 cafes"},
+      {"label": "Operational pressure", "value": "High", "direction": "up", "trend": "↑ owner covering roasting"},
+      {"label": "Your headspace", "value": "Split", "direction": "flat", "trend": "↔ big decisions pending"}
+    ]
+  },
+  "biggest_issue": {
+    "title": "Running out of your most popular coffee is now a pattern, not bad luck",
+    "explanation": [
+      "A cafe on a standing order chose you because the coffee is the same every week. When their single origin is missing twice in a year, the risk is not one lost order - it is the cafe starting to taste a competitor's coffee.",
+      "Green-bean buying is currently done from memory. That works until the week you are busy, which is exactly the week it fails."
+    ],
+    "evidence": [
+      "The Ethiopia ran out again, second time this year",
+      "Three cafes had to switch blends"
+    ],
+    "recommendation": "Write a reorder point for your five best-selling green-bean lines this week: the stock level at which you place the next order, based on your weekly kilos and the importer's lead time. Put it in the roast schedule spreadsheet Priya already uses, so the check happens every Friday without you."
+  },
+  "biggest_opportunity": {
+    "title": "The office bundle could turn your machines from a cost into a product",
+    "explanation": [
+      "You already place machines in offices and already deliver beans to them. Charging for the two together as one monthly bundle makes the revenue predictable and makes the machine pay for itself.",
+      "It also answers the price pressure: an office paying for a service is not comparing your price per kilo."
+    ],
+    "recommendation": "Do not build it yet. Offer it to three existing office accounts as a simple monthly price for beans plus one service visit. If one says yes, you have proof; then set it up as a Shopify subscription."
+  },
+  "avoiding": {
+    "title": "Three of this week's problems are one problem - you are the only backup",
+    "pattern": [
+      "When Priya was off, you roasted all day and two sales calls did not happen. The stockout happened in a week you were busy. The second-roaster question keeps coming back, but the roaster is not the bottleneck - your time is.",
+      "Every role in the business falls back on you. Until someone else can roast a standard batch, any absence turns into lost sales."
+    ],
+    "avoided": "Training a backup roaster",
+    "symptom_one": "Missed sales calls",
+    "symptom_two": "Unplanned stockouts"
+  },
+  "leadership_lesson": {
+    "title": "The lesson from Wednesday is not that Priya was sick - it is that there was no plan B",
+    "lesson": [
+      "Absence is normal. What was in your control was whether anyone else could run a standard roast. Right now nobody can, so the cost of any absence lands on your sales time.",
+      "A business grows when the owner's hours go to the work only the owner can do."
+    ],
+    "prep_for_next_time": "Ask Priya to write down the roast profile for your two main blends and to train Tom on one standard batch per week for the next month. Next time someone is away, Tom roasts and you keep your calls."
+  },
+  "marketing_meeting": {
+    "intro": "A few marketing ideas came up this week. Not all of them deserve meeting time - here they are, ordered by how closely each connects to what is actually happening in the business:",
+    "ideas": [
+      {"verdict": "now", "idea": "A loyalty offer for smaller cafes, in response to the competitor's price cut", "detail": "Instead of matching the price, offer what a price-only competitor cannot: a free barista training session each quarter for cafes on a standing order.", "why": "Why lead with it: this is a live threat to revenue, not just a nice idea."},
+      {"verdict": "keep", "idea": "Short roasting videos for Instagram", "detail": "Low cost and shows the quality behind the product. Batch-film them on a roast day so it takes one hour a month.", "why": "Why keep it: steady, low-risk brand building - not urgent."},
+      {"verdict": "park", "idea": "A big launch campaign for the office bundle", "detail": "Wait until three offices have tested it. Marketing something unproven spends money before you know it sells.", "why": "Why park it: it is not proven yet, so it would distract the meeting."}
+    ]
+  },
+  "next_priorities": [
+    {"rank": 1, "topic": "green-bean-reorder", "priority": "Set reorder points for your top five green beans", "detail": "Weekly kilos plus importer lead time, written into the roast schedule and checked every Friday.", "why_now": "Why first: it is the only issue directly hitting customer trust."},
+    {"rank": 2, "topic": "backup-roaster", "priority": "Start training a backup roaster", "detail": "Priya writes down the two main roast profiles; Tom roasts one standard batch a week with her.", "why_now": "Why it matters: it unlocks your sales time and answers the second-roaster question."},
+    {"rank": 3, "topic": "office-bundle", "priority": "Test the office bundle with three accounts", "detail": "One simple monthly price for beans plus a service visit. Do not build anything - just ask.", "why_now": "Why now: it is the cheapest way to test the best opportunity."}
+  ],
+  "action_plan": [
+    {"day": "Monday", "task": "List your top five green-bean lines and their weekly kilos (priority 1)."},
+    {"day": "Tuesday", "task": "Agree a training plan with Priya and book Tom's first batch (priority 2)."},
+    {"day": "Wednesday", "task": "Pick three office accounts and draft the bundle offer (priority 3)."},
+    {"day": "Thursday", "task": "Send the bundle offer; call the two late-paying cafes about their accounts."},
+    {"day": "Friday", "task": "10 minutes: check the reorder points in the roast schedule and send a voice note on how the week went."}
+  ],
+  "follow_up": {
+    "available": true,
+    "entries": [
+      {"decision_id": "late-payers", "status": "not_started", "subject": "Late-paying cafes", "note": "Last week the plan was to call them about their terms. Both paid late again this week, so the call has not happened yet."},
+      {"decision_id": "new-cafe-accounts", "status": "partial", "subject": "New cafe accounts", "note": "Lena signed one new cafe (good), but it comes with a machine on loan. Agree the minimum weekly volume before the machine goes in."}
+    ]
+  }
+}

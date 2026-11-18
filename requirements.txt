@@ -1,0 +1,21 @@
+# POMEAI Advisor - Phase 1 dependencies
+
+# Config & CLI
+python-dotenv>=1.0
+typer>=0.12
+
+# Report rendering (Milestone 0 / 4)
+jinja2>=3.1
+
+# Capture: Telegram voice notes (Milestone 1)
+python-telegram-bot>=21.0
+
+# Transcription providers (Milestone 2) - swappable, see pomeai/transcription/
+openai>=1.40
+google-genai>=2.0
+
+# Advisor: Anthropic Claude API (Milestone 4)
+anthropic>=0.40
+
+# Weekly scheduling (Milestone 5)
+apscheduler>=3.10
