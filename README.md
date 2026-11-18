@@ -1,13 +1,15 @@
-# POMEAI Advisor — an AI business advisor that listens to your week
+# Business Advisor — an AI advisor that listens to your week
+
+*by POMEAI*
 
 **The owner talks; the advisor thinks.** Through the week a business owner sends short voice
 notes on Telegram: whatever is on their mind, in their own words. Every Monday they get one
 clear report: the biggest issue, the best opportunity, what they may be avoiding, and **just
 three priorities** for the week ahead.
 
-**▶ [See a sample weekly report](https://marzieh-manager.github.io/pomeai-advisor/examples/sample-weekly-report.html)**
+**▶ [See a sample weekly report](https://marzieh-manager.github.io/business-advisor/examples/sample-weekly-report.html)**
 
-[![Sample weekly report](docs/sample-report.png)](https://marzieh-manager.github.io/pomeai-advisor/examples/sample-weekly-report.html)
+[![Sample weekly report](docs/sample-report.png)](https://marzieh-manager.github.io/business-advisor/examples/sample-weekly-report.html)
 
 > I built this for the owner of a real distribution business. To protect the client, this
 > public version runs on **Harbourline Coffee Co.**, a fictional Sydney coffee roaster. Every
@@ -118,4 +120,4 @@ automatic Monday delivery and a validation period with the real owner.
 - هیچ عدد، اسم یا تاریخی از خودش نمی‌سازد، و هر گزارش پیش از ارسال بررسی می‌شود.
 - برای هر کسب‌وکار جدید فقط یک فایل (شناخت‌نامه‌ی کسب‌وکار) عوض می‌شود.
 
-[نمونه‌ی گزارش هفتگی را ببینید](https://marzieh-manager.github.io/pomeai-advisor/examples/sample-weekly-report.html)
+[نمونه‌ی گزارش هفتگی را ببینید](https://marzieh-manager.github.io/business-advisor/examples/sample-weekly-report.html)
